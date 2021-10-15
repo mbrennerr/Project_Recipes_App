@@ -108,4 +108,6 @@ function Drinks() {
   );
 }
 
+// adicionando um termo
+
 export default Drinks;
